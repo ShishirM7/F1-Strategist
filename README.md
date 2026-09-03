@@ -1,6 +1,3 @@
-### Project Analysis: F1-Strategist
-The repository provides a race strategy analysis tool for Formula 1 sessions. It parses lap times, telemetry, and tire stint data to model degradation rates, pit window performance, and optimal stint configurations for race weekends.
-
 # F1 Strategist
 
 ## Overview
