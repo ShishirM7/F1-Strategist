@@ -25,10 +25,8 @@ F1-Strategist/
 ```
 ## Results
 * Accurately derived tire degradation coefficients across various stint lengths.
-
 * Produced clear strategy comparison plots identifying optimal pit windows under clear-air conditions.
 
 ## Future Improvements
 * Implementation of real-time Safety Car and Virtual Safety Car probability weighting.
-
 * Dynamic track evolution modeling based on ambient and track temperature shifts.
